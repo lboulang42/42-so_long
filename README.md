@@ -10,4 +10,7 @@ so_long vous donnera des bases dans les compétences suivantes : gestion de fen�
 Vous allez maintenant prendre en main la bibliothèque graphique de l’école : la MiniLibX ! Cette bibliothèque a été développée en interne et inclut des outils basiques permettant d’ouvrir une fenêtre, de créer des images et de gérer des événements clavier et souris.
 Les objectifs de ce projet sont similaires à tous ceux de votre première année : faire preuve de rigueur, vous améliorer en programmation C, utiliser des algorithmes basiques, chercher des informations en autonomie, etc.
 
+## Preview: ![alt text](./preview.png)
+
+
 # GRADE : [![lboulang's 42 so_long Score](https://badge42.vercel.app/api/v2/cljeck1ni001608jpwu72h2xu/project/3051996)](https://github.com/JaeSeoKim/badge42)
